@@ -1,9 +1,8 @@
 {
   "name": "indecision-app",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Barrett Jones",
-  "license": "MIT",
+  "license": "GNU 3.0",
   "scripts": {
     "start": "live-server public/",
     "build": "webpack --mode production",
